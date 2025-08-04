@@ -8,7 +8,7 @@ Computer Science student at UTEC | Passionate about automation, backend developm
 
 ### 🚀 About Me
 
-- 🎓 Final-year Computer Science student at [UTEC, Lima - Peru](https://www.utec.edu.pe), top-third of the class
+- 🎓 Bachelor Computer Science student at [UTEC, Lima - Peru](https://www.utec.edu.pe)
 - ⚙️ Interested in AI, cybersecurity, distributed systems, and backend automation
 - 🧠 Peer mentor at UTEC, guiding younger students technically and academically
 - 💡 Focused on solving complex problems and optimizing inefficient processes
@@ -28,8 +28,8 @@ Computer Science student at UTEC | Passionate about automation, backend developm
 ### 💼 Work Experience
 
 **UCAL (2024 – Present)**  
-*Bidirectional Channels & Automation Assistant*  
-- Automated mass messaging campaigns via WhatsApp (Chattigo) and email (Emblue)
+*Bidirectional Channel & Automation Assistant*  
+- HSMs campaigns via WhatsApp (Chattigo) and email (Emblue)
 - Designed Power BI dashboards connected to real-time Python pipelines
 - Created an AI tool to transcribe and analyze audio from customer interactions for automated feedback
 

@@ -10,7 +10,6 @@ Computer Science student at UTEC | Passionate about automation, backend developm
 
 - 🎓 Bachelor Computer Science student at [UTEC, Lima - Peru](https://www.utec.edu.pe)
 - ⚙️ Interested in AI, cybersecurity, distributed systems, and backend automation
-- 🧠 Peer mentor at UTEC, guiding younger students technically and academically
 - 💡 Focused on solving complex problems and optimizing inefficient processes
 
 ---
@@ -20,7 +19,7 @@ Computer Science student at UTEC | Passionate about automation, backend developm
 **Languages:** Python, C++, C, C\#, JavaScript, SQL, MATLAB, R  
 **Technologies & Frameworks:** Node.js, Docker, AWS (EC2, Lambda, S3), Heroku, Streamlit  
 **Databases:** PostgreSQL, MongoDB, SQLite  
-**Tools:** Power BI, SAP, REST APIs, OCR (Tesseract, PyMuPDF), Google Analytics API  
+**Tools:** Power BI, SAP, REST APIs, OCR, Google Analytics API  
 **UI/UX & Design:** Figma, Photoshop, CorelDraw, Unity
 
 ---
@@ -28,8 +27,8 @@ Computer Science student at UTEC | Passionate about automation, backend developm
 ### 💼 Work Experience
 
 **UCAL (2024 – Present)**  
-*Bidirectional Channel & Automation Assistant*  
-- HSMs campaigns via WhatsApp (Chattigo) and email (Emblue)
+*Bidirectional Channel & Automation Analyst*  
+- HSMs campaigns via WhatsApp (Chattigo) and email (Emblue), sending via APIs
 - Designed Power BI dashboards connected to real-time Python pipelines
 - Created an AI tool to transcribe and analyze audio from customer interactions for automated feedback
 
@@ -39,7 +38,7 @@ Computer Science student at UTEC | Passionate about automation, backend developm
 - Reduced daily processing time from 1 hour to just 5–6 minutes
 
 **Inversiones Yahaira S.A.C. (2020 – Present)**  
-*Software Lead – Family Business (Printing)*  
+*Software Lead – Business Associate (Printing)*  
 - Created WhatsApp automation tools without using the official API (media & bulk messaging)
 - Implemented OCR-based classification for over 20,000 medical records
 - Managed network and automation for internal business processes
